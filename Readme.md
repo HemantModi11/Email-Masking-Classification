@@ -5,12 +5,12 @@ An intelligent support system that classifies customer emails into predefined ca
 
 ✨ Features
 
-- 🔐 **PII Masking** using regex & spaCy (no LLMs!)
-- 📧 **Email Classification** using a tuned LinearSVC model
-- 🌐 **Multilingual Support** (tested across English, German, French, Spanish, Arabic, Hindi-English mix)
-- ⚡ **FastAPI-Powered API**
-- 📊 **Evaluation Scripts** with bulk testing and metrics
-- ☁️ **Ready for Hugging Face Deployment**
+- 🔐 PII Masking using regex & spaCy (no LLMs!)
+- 📧 Email Classification using a tuned LinearSVC model
+- 🌐 Multilingual Support (tested across English, German, French, Spanish, Arabic, Hindi-English mix)
+- ⚡ FastAPI-Powered API
+- 📊 Evaluation Scripts with bulk testing and metrics
+- ☁️ Ready for Hugging Face Deployment
 ```
 ---
 
