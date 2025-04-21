@@ -1,21 +1,9 @@
-Perfect plan! Let's start with a solid, professional `README.md`.
-
----
-
-## 📄 `README.md` for Email Classification System
-
-Here’s a polished and submission-ready version:
-
----
-
 ```markdown
-# 📬 Email Classification & PII Masking API
+📬 Email Classification & PII Masking API
 
 An intelligent support system that classifies customer emails into predefined categories (like `Incident`, `Problem`, `Request`, and `Change`) while masking Personally Identifiable Information (PII) — built for multilingual support environments 🌍.
 
----
-
-## ✨ Features
+✨ Features
 
 - 🔐 **PII Masking** using regex & spaCy (no LLMs!)
 - 📧 **Email Classification** using a tuned LinearSVC model
@@ -23,7 +11,7 @@ An intelligent support system that classifies customer emails into predefined ca
 - ⚡ **FastAPI-Powered API**
 - 📊 **Evaluation Scripts** with bulk testing and metrics
 - ☁️ **Ready for Hugging Face Deployment**
-
+```
 ---
 
 ## 🧪 Sample Input & Output
@@ -121,7 +109,7 @@ Visit: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## 🚀 Deployment (Hugging Face Spaces)
 
-> Coming soon: [🔗 Live Demo Link](#)
+> [🔗 Live Demo Link](https://hemantmodi-email-classifier-api.hf.space/docs)
 
 This project is ready for deployment using `FastAPI` + `Hugging Face Spaces`.
 
@@ -142,20 +130,3 @@ This project is ready for deployment using `FastAPI` + `Hugging Face Spaces`.
 **Hemant Modi**  
 Email: hemantmodi101@gmail.com
 GitHub: [@HemantModi11](https://github.com/HemantModi11)
-
----
-
-## 📜 License
-
-MIT License
-```
-
----
-
-Let me know if you'd like me to:
-
-✅ Tailor the Hugging Face deployment section  
-✅ Fill in your name & links  
-✅ Help push this to GitHub and deploy to Spaces  
-
-Once you're good with the README, we'll jump to **deployment**, then your **2–3 page report**!
